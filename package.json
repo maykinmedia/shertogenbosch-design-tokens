@@ -1,6 +1,6 @@
 {
   "name": "@maykinmedia/shertogenbosch-design-tokens",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Design tokens for shertogenbosch theme",
   "main": "dist/index.js",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "style-dictionary build -c style-dictionary.config.json",
+    "compile": "style-dictionary build -c style-dictionary.config.json --verbose",
     "concat": "cat src/fonts.css dist/index.css > assets/theme.css",
     "build": "npm run compile && npm run concat",
     "start": "chokidar --initial --command 'npm run build' 'src/**/*.tokens.json' 'src/**/tokens.json'",

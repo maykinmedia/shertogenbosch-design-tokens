@@ -1,15 +1,39 @@
 {
   "utrecht": {
-    "link": {
-      "color": {
-        "value": "{shertogenbosch.color.dark-blue}"
-      },
-      "text-decoration": {
-        "value": "none"
-      },
-      "hover": {
+    "pagination": {
+      "page-link": {
+        "color": {
+          "value": "#37373c"
+        },
         "text-decoration": {
-          "value": "underline"
+          "value": "none"
+        },
+        "focus": {
+          "color": {
+            "value": "#37373c"
+          }
+        },
+        "hover": {
+          "color": {
+            "value": "{shertogenbosch.color.dark-blue}"
+          },
+          "text-decoration": {
+            "value": "underline"
+          },
+          "text-decoration-thickness": {
+            "value": "0.67px"
+          }
+        }
+      },
+      "relative-link": {
+        "color": {"value": "{shertogenbosch.color.dark-blue}"},
+        "border-color": {"value": "transparent"},
+        "border-radius": {"value": "4px"},
+        "border-width": {"value": "2px"},
+        "hover": {
+          "background-color": {"value": "{shertogenbosch.color.dark-blue}"},
+          "color": {"value": "white"},
+          "border-color": {"value": "transparent"}
         }
       }
     }

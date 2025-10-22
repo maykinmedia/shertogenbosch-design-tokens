@@ -5,7 +5,7 @@
       "border-radius": {"value": "{maykin.inputs.border-radius}"},
       "border-width": {"value": "{maykin.inputs.border-width}"},
       "checked": {
-        "background-color": {"value": "{maykin.color.secondary}"},
+        "background-color": {"value": "{shertogenbosch.color.white}"},
         "border-color": {"value": "#ced4da"}
       },
       "focus": {

@@ -14,7 +14,7 @@
       },
       "hover": {
         "color": {
-          "value": "{maykin.color.opengem-blue}"
+          "value": "{shertogenbosch.color.dark-blue}"
         },
         "text-decoration": {
           "value": "underline"
