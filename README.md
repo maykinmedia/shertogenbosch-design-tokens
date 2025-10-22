@@ -1,8 +1,8 @@
-# CHANGEME Design Tokens and theme
+# 's-Hertogenbosch Design Tokens and theme
 
-[NL Design System](https://www.nldesignsystem.nl/) design token values for "the CHANGEME theme".
+[NL Design System](https://www.nldesignsystem.nl/) design token values for "the 's-Hertogenbosch theme".
 
-The CHANGEME theme is used in environments that support styling with NL Design System
+The shertogenbosch theme is used in environments that support styling with NL Design System
 (community) components. It serves as the source of truth for any theme/design choices.
 
 ## How it works
@@ -23,7 +23,7 @@ If you are only _consuming_ the design tokens, the easiest integration path is a
 package as dependency to your project:
 
 ```bash
-npm install --save-dev @maykinmedia/CHANGEME-design-tokens
+npm install --save-dev @maykinmedia/shertogenbosch-design-tokens
 ```
 
 Then, import the desired build target artifact and run your usual build chain.
@@ -45,7 +45,7 @@ When building the docker image, you can provide the build arg `VERSION`, which d
 URL where the assets are available. E.g.:
 
 ```bash
-docker build --build-arg=VERSION=0.1.0 --tag maykinmedia/CHANGEME-theme:0.1.0 .
+docker build --build-arg=VERSION=0.1.0 --tag maykinmedia/shertogenbosch-theme:0.1.0 .
 ```
 
 Will lead to the following URL structure: `https://theme.example.com/0.1.0/assets/theme.css`.

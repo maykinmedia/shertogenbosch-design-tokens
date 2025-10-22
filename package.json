@@ -1,7 +1,7 @@
 {
-  "name": "@maykinmedia/CHANGEME-design-tokens",
+  "name": "@maykinmedia/shertogenbosch-design-tokens",
   "version": "0.1.0",
-  "description": "Design tokens for CHANGEME theme",
+  "description": "Design tokens for shertogenbosch theme",
   "main": "dist/index.js",
   "files": [
     "dist/",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maykinmedia/CHANGEME-design-tokens.git"
+    "url": "git+https://github.com/maykinmedia/shertogenbosch-design-tokens.git"
   },
   "keywords": [
     "style-dictionary",
@@ -33,9 +33,9 @@
   "author": "Maykin Media",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/maykinmedia/CHANGEME-design-tokens/issues"
+    "url": "https://github.com/maykinmedia/shertogenbosch-design-tokens/issues"
   },
-  "homepage": "https://github.com/maykinmedia/CHANGEME-design-tokens#readme",
+  "homepage": "https://github.com/maykinmedia/shertogenbosch-design-tokens#readme",
   "devDependencies": {
     "chokidar": "^4.0.3",
     "chokidar-cli": "^3.0.0",

@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: maykinmedia/CHANGEME-theme
+  IMAGE_NAME: maykinmedia/shertogenbosch-theme
   DOCKER_BUILDKIT: '1'
 
 jobs:
@@ -62,7 +62,7 @@ jobs:
 
     environment:
       name: release
-      url: https://www.npmjs.com/package/@maykinmedia/CHANGEME-design-tokens
+      url: https://www.npmjs.com/package/@maykinmedia/shertogenbosch-design-tokens
     permissions:
       id-token: write
       contents: read
@@ -165,7 +165,7 @@ jobs:
         run: |
           docker tag \
             ${{ needs.docker-build.outputs.image_tag }} \
-            ghcr.io/maykinmedia/CHANGEME-design-tokens:${{ needs.setup.outputs.tag }}
+            ghcr.io/maykinmedia/shertogenbosch-design-tokens:${{ needs.setup.outputs.tag }}
           docker push \
-            ghcr.io/maykinmedia/CHANGEME-design-tokens:${{ needs.setup.outputs.tag }}
+            ghcr.io/maykinmedia/shertogenbosch-design-tokens:${{ needs.setup.outputs.tag }}
 
