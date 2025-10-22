@@ -1,20 +1,20 @@
 {
-  "maykin": {
+  "shertogenbosch": {
     "color": {
-      "primary": {
-        "value": "#341a90"
+      "dark-blue": {
+        "value": "#001759"
       },
-      "secondary": {
-        "value": "#00bfcb"
+      "cream": {
+        "value": "#f7f4ee"
       },
-      "secondary-darken": {
-        "value": "#038496"
+      "white": {
+        "value": "#fefefe"
       },
-      "opengem-blue": {
-        "value": "#04a5bb"
+      "black": {
+        "value": "#1a1a1a"
       },
-      "opengem-orange": {
-        "value": "#e67f00"
+      "gray": {
+        "value": "#ececec"
       }
     }
   }

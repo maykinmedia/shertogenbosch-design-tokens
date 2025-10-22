@@ -2,7 +2,10 @@
   "utrecht": {
     "page-footer": {
       "background-color": {
-        "value": "#051f31"
+        "value": "{shertogenbosch.color.white}"
+      },
+      "color": {
+        "value": "{shertogenbosch.color.black}"
       }
     }
   }

@@ -2,19 +2,20 @@
   "utrecht": {
     "button": {
       "background-color": {},
-      "border-radius": {"value": "{maykin.inputs.border-radius}"},
+      "border-radius": {"value": "1px"},
       "primary-action": {
+        "border-color": {
+          "value": "{shertogenbosch.color.dark-blue}"
+        },
         "background-color": {
-          "value": "{maykin.color.secondary}"
+          "value": "transparent"
         },
         "hover": {
           "background-color": {
-            "value": "{maykin.color.secondary-darken}"
-          }
-        },
-        "focus": {
-          "background-color": {
-            "value": "{maykin.color.secondary}"
+            "value": "{shertogenbosch.color.dark-blue}"
+          },
+          "color": {
+            "value": "#fff"
           }
         }
       }

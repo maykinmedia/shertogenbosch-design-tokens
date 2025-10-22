@@ -1,7 +1,20 @@
 {
   "gpp-woo": {
     "search-field": {
-      "column-gap": {"value": "10px"}
+      "column-gap": {"value": "10px"},
+      "height": {
+        "value": "3.1875rem"
+      },
+      "border-radius": {
+        "value": "4px"
+      },
+      "color": {
+        "value": "{shertogenbosch.color.black}"
+      },
+      "background": {
+        "value": "{shertogenbosch.color.gray}"
+      }
     }
+    
   }
 }

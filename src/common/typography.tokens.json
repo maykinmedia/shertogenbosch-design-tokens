@@ -2,7 +2,7 @@
   "utrecht": {
     "typography": {
       "sans-serif": {
-        "font-family": {"value": "titillium,Helvetica,Arial,sans-serif"}
+        "font-family": {"value": "Lato,Helvetica,Arial,sans-serif"}
       }
     }
   }
