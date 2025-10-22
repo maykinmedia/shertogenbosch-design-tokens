@@ -4,6 +4,9 @@
       "background-color": {},
       "border-radius": {"value": "1px"},
       "primary-action": {
+        "color": {
+          "value": "{shertogenbosch.color.dark-blue}"
+        },
         "border-color": {
           "value": "{shertogenbosch.color.dark-blue}"
         },
