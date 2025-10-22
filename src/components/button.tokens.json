@@ -1,0 +1,23 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": {},
+      "border-radius": {"value": "{maykin.inputs.border-radius}"},
+      "primary-action": {
+        "background-color": {
+          "value": "{maykin.color.secondary}"
+        },
+        "hover": {
+          "background-color": {
+            "value": "{maykin.color.secondary-darken}"
+          }
+        },
+        "focus": {
+          "background-color": {
+            "value": "{maykin.color.secondary}"
+          }
+        }
+      }
+    }
+  }
+}

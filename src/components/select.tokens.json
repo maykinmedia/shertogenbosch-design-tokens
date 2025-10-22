@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "select": {
+      "border-radius": {"value": "{maykin.inputs.border-radius}"},
+      "border-block-end-width": {"value": "inherit"},
+      "border-color": {"value": "#ced4da"},
+      "border-width": {"value": "{maykin.inputs.border-width}"},
+      "padding-block-start": {"value": "10px"},
+      "padding-block-end": {"value": "10px"},
+      "padding-inline-start": {"value": "12px"},
+      "padding-inline-end": {"value": "12px"}
+    }
+  }
+}

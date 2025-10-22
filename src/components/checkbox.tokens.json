@@ -1,0 +1,19 @@
+{
+  "utrecht": {
+    "checkbox": {
+      "border-color": {"value": "#ced4da"},
+      "border-radius": {"value": "{maykin.inputs.border-radius}"},
+      "border-width": {"value": "{maykin.inputs.border-width}"},
+      "checked": {
+        "background-color": {"value": "{maykin.color.secondary}"},
+        "border-color": {"value": "#ced4da"}
+      },
+      "focus": {
+        "border-width": {"value": "{maykin.inputs.border-width}"}
+      },
+      "hover": {
+        "border-width": {"value": "2px"}
+      }
+    }
+  }
+}

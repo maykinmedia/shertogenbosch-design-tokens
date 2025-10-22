@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "link": {
+      "color": {
+        "value": "#37373c"
+      },
+      "text-decoration": {
+        "value": "none"
+      },
+      "focus": {
+        "color": {
+          "value": "#37373c"
+        }
+      },
+      "hover": {
+        "color": {
+          "value": "{maykin.color.opengem-blue}"
+        },
+        "text-decoration": {
+          "value": "underline"
+        },
+        "text-decoration-thickness": {
+          "value": "0.67px"
+        }
+      }
+    }
+  }
+}

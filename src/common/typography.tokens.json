@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "typography": {
+      "sans-serif": {
+        "font-family": {"value": "titillium,Helvetica,Arial,sans-serif"}
+      }
+    }
+  }
+}

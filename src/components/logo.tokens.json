@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "logo": {
+      "max-block-size": {"value": "48px"},
+      "max-inline-size": {"value": "123px"},
+      "min-block-size": {"value": "48px"},
+      "min-inline-size": {"value": "123px"}
+    }
+  }
+}

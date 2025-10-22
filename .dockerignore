@@ -1,0 +1,6 @@
+*
+!*.json
+!.npmrc
+!src
+!assets
+!nginx.conf
