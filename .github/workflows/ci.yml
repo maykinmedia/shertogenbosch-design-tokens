@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: maykinmedia/shertogenbosch-theme
+  IMAGE_NAME: maykinmedia/shertogenbosch-design-tokens
   DOCKER_BUILDKIT: '1'
 
 jobs:

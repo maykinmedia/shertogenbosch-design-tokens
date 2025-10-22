@@ -1,7 +1,7 @@
 @font-face {
-  font-family: Lato,sans-serif;
-  src:
-    url(https://www.s-hertogenbosch.nl/wp-content/themes/stuurlui/assets/webfonts/lato-v23-latin-regular.woff2) format('woff2');
+  font-family: Lato, sans-serif;
+  src: url(https://www.s-hertogenbosch.nl/wp-content/themes/stuurlui/assets/webfonts/lato-v23-latin-regular.woff2)
+    format('woff2');
   font-weight: 400;
   font-style: normal;
 }

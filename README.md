@@ -45,7 +45,7 @@ When building the docker image, you can provide the build arg `VERSION`, which d
 URL where the assets are available. E.g.:
 
 ```bash
-docker build --build-arg=VERSION=0.1.0 --tag maykinmedia/shertogenbosch-theme:0.1.0 .
+docker build --build-arg=VERSION=0.1.0 --tag maykinmedia/shertogenbosch-design-tokens:0.1.0 .
 ```
 
 Will lead to the following URL structure: `https://theme.example.com/0.1.0/assets/theme.css`.
