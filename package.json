@@ -1,6 +1,6 @@
 {
   "name": "@maykinmedia/shertogenbosch-design-tokens",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Design tokens for shertogenbosch theme",
   "main": "dist/index.js",
   "files": [
