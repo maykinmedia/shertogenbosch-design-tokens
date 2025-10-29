@@ -1,8 +1,15 @@
 {
   "utrecht": {
     "button": {
-      "background-color": {},
+      "background-color": {
+        "value": "transparent"
+      },
+      "border-width": {
+        "value": "1px"
+      },
+      "border-style": {"value": "solid"},
       "border-radius": {"value": "1px"},
+      "border-color": {"value": "{shertogenbosch.color.dark-blue}"},
       "primary-action": {
         "color": {
           "value": "{shertogenbosch.color.dark-blue}"
